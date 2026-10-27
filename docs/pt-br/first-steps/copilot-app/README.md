@@ -53,4 +53,5 @@ O workshop leva aproximadamente de 60 a 90 minutos. O projeto usa um único arqu
 [lesson-10]: 10-remote/
 [lesson-11]: 11-canvas/
 [lesson-12]: 12-deploy-pages/
+[lesson-12]: 12-deploy-pages/
 [lesson-13]: 13-review/
